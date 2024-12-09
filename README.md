@@ -379,8 +379,8 @@ b) ma osobowość prawną, nie przysługuje mu jednak wyłączne prawo do upowa�
 64. Rada Prezesów Europejskiego Banku Centralnego składa się z członków Zarządu Europejskiego Banku Centralnego i prezesów krajowych banków centralnych Państw Członkowskich, których walutą jest euro. Zarząd Europejskiego Banku Centralnego składa się z prezesa, wiceprezesa i:
 
 a) 3 innych członków,\
-b) 4 innych członków,\
-**c) 6 innych członków.**
+**b) 4 innych członków,**\
+c) 6 innych członków.
 
 65. Prezes, wiceprezes i pozostali członkowie Zarządu Europejskiego Banku Centralnego są mianowani przez Radę Europejską stanowiącą większością kwalifikowaną na zalecenie Rady i po konsultacji z Parlamentem Europejskim oraz z Radą Prezesów Europejskiego Banku Centralnego, spośród osób o uznanym autorytecie i doświadczeniu zawodowym w dziedzinie pieniądza lub bankowości. Ich mandat trwa:
 
@@ -481,8 +481,8 @@ c) 3/4 liczby Państw Członkowskich, chyba że Rada Europejska, stanowiąc jedn
 81. Członkowie Komisji są wybierani spośród obywateli Państw Członkowskich na podstawie systemu bezwzględnie równej rotacji pomiędzy Państwami Członkowskimi, który pozwala odzwierciedlić różnorodność demograficzną i geograficzną wszystkich Państw Członkowskich. System ten jest ustanawiany:
 
 a) większością bezwzględną przez Parlament Europejski,\
-b) jednomyślnie przez Radę Europejską,\
-**c) jednomyślnie przez Radę.**
+**b) jednomyślnie przez Radę Europejską,**\
+c) jednomyślnie przez Radę.
 
 82. Przewodniczącego Komisji Europejskiej wybiera:
 
@@ -541,8 +541,8 @@ b) 76 miejsc,\
 91. Członkowie Parlamentu Europejskiego są wybierani na kadencję liczącą:
 
 a) 4 lata,\
-b) 5 lat,\
-**c) 6 lat.**
+**b) 5 lat,**\
+c) 6 lat.
 
 92. Członkowie Parlamentu Europejskiego są wybierani w wyborach:
 
