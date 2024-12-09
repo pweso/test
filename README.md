@@ -49,8 +49,8 @@ b) wyłącznie w składzie wielkiej izby. W przypadkach przewidzianych w Statuci
 9. Parlament Europejski i Rada, stanowiąc zgodnie ze zwykłą procedurą ustawodawczą, mogą utworzyć przy Sądzie sądy wyspecjalizowane, do rozpoznawania w I instancji niektórych kategorii skarg wniesionych w konkretnych dziedzinach. Od orzeczeń wydanych przez sądy wyspecjalizowane:
 
 a) nie przysługuje prawo odwołania się do Sądu,\
-**b) przysługuje prawo odwołania się do Sądu, ograniczone do kwestii prawnych,**\
-c) przysługuje prawo odwołania się do Sądu, ograniczone do kwestii prawnych lub - jeżeli jest to przewidziane w rozporządzeniu ustanawiającym sąd wyspecjalizowany - obejmujące również kwestie faktyczne.
+b) przysługuje prawo odwołania się do Sądu, ograniczone do kwestii prawnych,\
+**c) przysługuje prawo odwołania się do Sądu, ograniczone do kwestii prawnych lub - jeżeli jest to przewidziane w rozporządzeniu ustanawiającym sąd wyspecjalizowany - obejmujące również kwestie faktyczne.**
 
 10. Członkowie sądów wyspecjalizowanych są wybierani spośród osób o niekwestionowanej niezależności i mogących zajmować stanowiska sądowe. Są oni ustanowieni przez:
 
