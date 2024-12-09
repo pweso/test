@@ -390,8 +390,8 @@ b) 6 lat i jest odnawialny,\
 
 66. Osoby niebędące obywatelami Państw Członkowskich UE:
 
-a) nie mogą być członkami Zarządu Europejskiego Banku Centralnego,\
-**b) mogą być członkami Zarządu Europejskiego Banku Centralnego,**\
+**a) nie mogą być członkami Zarządu Europejskiego Banku Centralnego,**\
+b) mogą być członkami Zarządu Europejskiego Banku Centralnego,\
 c) mogą być członkami Zarządu Europejskiego Banku Centralnego, nie mogą jednak sprawować funkcji Prezesa ani wiceprezesa.
 
 67. Trybunał Obrachunkowy sprawuje kontrolę rachunków UE. W skład Trybunału Obrachunkowego wchodzi:
