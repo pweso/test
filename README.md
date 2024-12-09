@@ -18,8 +18,8 @@ c) może otrzymać pełnomocnictwo nie więcej niż od 2 z pozostałych członk�
 
 4. Radę wspomaga Sekretariat Generalny, działający pod kierunkiem sekretarza generalnego mianowanego przez Radę. Rada decyduje o organizacji Sekretariatu:
 
-**a) zwykłą większością,**\
-b) kwalifikowaną większością głosów,\
+a) zwykłą większością,\
+**b) kwalifikowaną większością głosów,**\
 c) większością 2/3 oddanych głosów.
 
 5. Członkowie Komisji są wybierani na podstawie systemu rotacji ustanowionego jednomyślnie przez Radę Europejską, przy czym Państwa Członkowskie są traktowane na zasadzie ścisłej równości przy ustalaniu kolejności i długości mandatu ich obywateli w Komisji. W związku z tym różnica między całkowitą liczbą kadencji pełnionych przez obywateli danych dwóch Państw Członkowskich nie może nigdy przewyższać:
@@ -49,8 +49,8 @@ b) wyłącznie w składzie wielkiej izby. W przypadkach przewidzianych w Statuci
 9. Parlament Europejski i Rada, stanowiąc zgodnie ze zwykłą procedurą ustawodawczą, mogą utworzyć przy Sądzie sądy wyspecjalizowane, do rozpoznawania w I instancji niektórych kategorii skarg wniesionych w konkretnych dziedzinach. Od orzeczeń wydanych przez sądy wyspecjalizowane:
 
 a) nie przysługuje prawo odwołania się do Sądu,\
-b) przysługuje prawo odwołania się do Sądu, ograniczone do kwestii prawnych,\
-**c) przysługuje prawo odwołania się do Sądu, ograniczone do kwestii prawnych lub - jeżeli jest to przewidziane w rozporządzeniu ustanawiającym sąd wyspecjalizowany - obejmujące również kwestie faktyczne.**
+**b) przysługuje prawo odwołania się do Sądu, ograniczone do kwestii prawnych,**\
+c) przysługuje prawo odwołania się do Sądu, ograniczone do kwestii prawnych lub - jeżeli jest to przewidziane w rozporządzeniu ustanawiającym sąd wyspecjalizowany - obejmujące również kwestie faktyczne.
 
 10. Członkowie sądów wyspecjalizowanych są wybierani spośród osób o niekwestionowanej niezależności i mogących zajmować stanowiska sądowe. Są oni ustanowieni przez:
 
@@ -186,9 +186,9 @@ c) 3 dni po jego złożeniu i wyłącznie w głosowaniu jawnym.
 
 32. Członkowie Komisji kolegialnie rezygnują ze swoich funkcji, a wysoki przedstawiciel UE do spraw zagranicznych i polityki bezpieczeństwa rezygnuje z pełnienia funkcji w ramach Komisji, jeżeli wniosek o wotum nieufności dla Komisji ze względu na jej działalność zostanie przyjęty większością:
 
-a) 2/3 oddanych głosów,\
+**a) 2/3 oddanych głosów,**\
 b) 3/4 oddanych głosów,\
-**c) 3/5 oddanych głosów.**
+c) 3/5 oddanych głosów.
 
 33. W przypadku głosowania członek Rady Europejskiej:
 
