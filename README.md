@@ -601,8 +601,8 @@ b) nie mniej niż 2 sędziów z każdego Państwa Członkowskiego UE, Trybunał 
 101. W skład Sądu wchodzi:
 
 a) tylko jeden sędzia z każdego Państwa Członkowskiego UE,\
-**b) co najmniej jeden sędzia z każdego Państwa Członkowskiego UE,**\
-c) 2 sędziów z każdego Państwa Członkowskiego UE.
+b) co najmniej jeden sędzia z każdego Państwa Członkowskiego UE,\
+**c) 2 sędziów z każdego Państwa Członkowskiego UE**.
 
 102. Sędziowie i rzecznicy generalni Trybunału Sprawiedliwości oraz sędziowie Sądu są wybierani spośród osób o niekwestionowanej niezależności, spełniających warunki określone w art. 253 i 254 TFUE. Są oni mianowani za wspólnym porozumieniem przez rządy Państw Członkowskich na okres:
 
@@ -727,8 +727,8 @@ c) większością 2/3 głosów.
 122. Komisja składa sprawozdanie Parlamentowi Europejskiemu, Radzie oraz Komitetowi Ekonomiczno-Społecznemu w sprawie stosowania postanowień części Traktatu o funkcjonowaniu UE w części dotyczącej obywatelstwa oraz niedyskryminowania co:
 
 a) pół roku,\
-**b) rok,**\
-c) 3 lata.
+b) rok,\
+**c) 3 lata**.
 
 123. Unia obejmuje unię celną, która rozciąga się na całą wymianę towarową i obejmuje zakaz ceł przywozowych i wywozowych między Państwami Członkowskimi oraz wszelkich opłat o skutku równoważnym, jak również przyjęcie wspólnej taryfy celnej w stosunkach z państwami trzecimi. Produkty pochodzące z państw trzecich są uważane za będące w swobodnym obrocie w jednym z Państw Członkowskich, jeżeli:
 
@@ -792,8 +792,8 @@ c) 75% ludności UE.
 
 133. Od 1.11.2014 r. większość kwalifikowaną stanowi co najmniej 55% członków Rady, jednak nie mniej niż 15 z nich, reprezentujących Państwa Członkowskie, których łączna liczba ludności stanowi co najmniej 65% ludności UE. Mniejszość blokująca musi obejmować co najmniej:
 
-a) 4 członków Rady,\
-**b) 5 członków Rady,**\
+**a) 4 członków Rady,**\
+b) 5 członków Rady,\
 c) 7 członków Rady.
 
 134. Za przygotowanie prac Rady odpowiada:
@@ -852,8 +852,8 @@ c) nie później niż 1 lutego.
 
 143. Rada przyjmuje stanowisko w sprawie projektu budżetu i przekazuje je Parlamentowi Europejskiemu nie później niż:
 
-a) 1 października roku poprzedzającego rok, w którym budżet ma być wykonywany,\
-**b) 1 października roku poprzedzającego rok, w którym budżet ma być wykonywany,**\
+**a) 1 października roku poprzedzającego rok, w którym budżet ma być wykonywany,**\
+b) 1 października roku poprzedzającego rok, w którym budżet ma być wykonywany,\
 c) 1 listopada roku poprzedzającego rok, w którym budżet ma być wykonywany.
 
 144. W każdym z Państw Członkowskich UE posiada zdolność prawną i zdolność do czynności prawnych o najszerszym zakresie przyznanym przez ustawodawstwa krajowe osobom prawnym. Może ona zwłaszcza nabywać lub zbywać mienie ruchome i nieruchome oraz stawać przed sądem. W tym zakresie jest ona reprezentowana przez:
